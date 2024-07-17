@@ -21,5 +21,5 @@ Este proyecto es un escáner de vulnerabilidades básico para sitios de WordPres
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/wordpress-vulnerability-scanner.git
+   git clone https://github.com/tuusuario/wordpress-vulnerability-scanner.git](https://github.com/devlewis0/WordpresScannerVulnVisual.git
    cd wordpress-vulnerability-scanner
